@@ -1,0 +1,244 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="statement_scroll_height">320dip</dimen>
+    <dimen name="common_dialog_width">317dip</dimen>
+    <dimen name="image_thumbnail_size">68dip</dimen>
+    <dimen name="setting_sex_icon_top_margin">4dip</dimen>
+    <dimen name="multi_bucket_chooser_size">140dip</dimen>
+    <dimen name="multi_bucket_chooser_img_margin">13dip</dimen>
+    <dimen name="multi_bucket_chooser_bg_margin">10.3dip</dimen>
+    <dimen name="activity_lingqu_margin_Bottom">10dip</dimen>
+    <dimen name="title_bar_height">48dip</dimen>
+    <dimen name="title_bar_left_width">70dip</dimen>
+    <dimen name="title_bar_right_width">70dip</dimen>
+    <dimen name="notice_forward_bg_h">40dip</dimen>
+    <dimen name="notice_forward_bg_w">220dip</dimen>
+    <dimen name="notice_multi_img_size">120dip</dimen>
+    <dimen name="setting_user_text_size">20sp</dimen>
+    <dimen name="setting_content_text_size">18sp</dimen>
+    <dimen name="qnswitch_width">99px</dimen>
+    <dimen name="qnswitch_height">60px</dimen>
+    <dimen name="tip_img_size">24px</dimen>
+    <dimen name="setting_icon">92dp</dimen>
+    <dimen name="setting_icon_half">46dp</dimen>
+    <dimen name="pull_refresh_pg_size">27dp</dimen>
+    <dimen name="bottom_count_margin_right">10dp</dimen>
+    <dimen name="contact_detail_user_bg_height">230dp</dimen>
+    <dimen name="find_tvuser">20sp</dimen>
+    <dimen name="list_dlg_boder_margin">35dp</dimen>
+    <dimen name="contact_detail_userico_margintop">22dp</dimen>
+    <dimen name="contact_detail_name_margin_left_right">30dp</dimen>
+    <dimen name="contact_name_margin_right">20dp</dimen>
+    <dimen name="new_friend_item_width">55dp</dimen>
+    <dimen name="new_friend_item_height">33dp</dimen>
+    <!-- 主页面底部导航栏定义 -->
+    <!-- 主页面底部导航栏定义 -->
+    <dimen name="main_bottom_height">54dp</dimen>
+    <dimen name="main_bottom_top_margin">7dp</dimen>
+    <dimen name="main_bottom_bottom_margin">4dp</dimen>
+    <dimen name="main_bottom_txt_top_margin">5dp</dimen>
+    <dimen name="main_bottom_txt_bottom_margin">0dp</dimen>
+    <dimen name="main_bottom_bg_topline_height">1px</dimen>
+    <dimen name="main_bottom_txt_szie">11sp</dimen>
+    <dimen name="main_bottom_count_margin_left">30dp</dimen>
+    <dimen name="main_bottom_count_margin_top">4dp</dimen>
+    <dimen name="main_bottom_count_txt_padding_top">0dp</dimen>
+    <dimen name="main_bottom_count_txt_padding_left">6dp</dimen>
+    <dimen name="main_bottom_count_txt_padding_right">6dp</dimen>
+    <dimen name="main_bottom_count_txt_padding_bottom">0dp</dimen>
+
+    <!-- 一键回家的resource -->
+    <dimen name="one_key_visit_title">20sp</dimen>
+    <dimen name="one_key_visit_name">18sp</dimen>
+    <dimen name="onekeyvisit_title_padding_top">10dp</dimen>
+    <dimen name="family_cancel_btn_padding_left">100dp</dimen>
+    <dimen name="family_cancel_btn_padding_top">10dip</dimen>
+    <dimen name="family_cancel_btn_margin_top">30dp</dimen>
+    <dimen name="connect_info_margin_bottom">30dp</dimen>
+    <dimen name="familynumber_info_margin_bottom">40dp</dimen>
+    <dimen name="onekeyvisit_Number">115dp</dimen>
+    <dimen name="onekeyvisit_scan">12dp</dimen>
+    <dimen name="onekeyvisit_btn_gap1">90dp</dimen>
+    <dimen name="onekeyvisit_btn_gap2">105dp</dimen>
+    <dimen name="onekeyvisit_btn_gap3">125dp</dimen>
+    <dimen name="onekeyvisit_btn_gap4">150dp</dimen>
+    <dimen name="onekeyvisit_line_width">2dip</dimen>
+    <dimen name="addfriend_item_hight">65dp</dimen>
+
+    <!-- 消息界面 start -->
+    <dimen name="chat_time_margin_top">15dp</dimen>
+    <dimen name="chat_time_margin_bottom">5dp</dimen>
+    <dimen name="chat_txt_padding_max">40dp</dimen>
+    <dimen name="chat_txt_padding_min">10dp</dimen>
+    <dimen name="chat_padding_left_right">10dp</dimen>
+    <dimen name="chat_item_padding_top">5dp</dimen>
+    <dimen name="chat_item_padding_bottom">5dp</dimen>
+    <dimen name="chat_item_margin_status">10dp</dimen>
+    <dimen name="chat_retry_padding">0.1dp</dimen>
+    <dimen name="chat_pic_max_size">125dp</dimen>
+    <dimen name="chat_pic_min_size">70dp</dimen>
+    <dimen name="chat_video_size">120dp</dimen>
+    <dimen name="chat_video_duration_marginlr">8dp</dimen>
+    <dimen name="chat_video_send_duration_marginlr">10dp</dimen>
+    <dimen name="chat_video_recv_duration_marginlr">6dp</dimen>
+    <dimen name="chat_video_duration_marginbottom">4dp</dimen>
+    <dimen name="chat_vcard_head_size">45dp</dimen>
+    <dimen name="chat_vcard_bg_width">180dp</dimen>
+    <dimen name="chat_running_pb_size">15dp</dimen>
+    <dimen name="chat_rcd_circle1_radius">50dp</dimen>
+    <dimen name="chat_rcd_circle1_width">6dp</dimen>
+    <dimen name="chat_rcd_circle2_radius">57dp</dimen>
+    <dimen name="chat_rcd_circle2_width">9dp</dimen>
+    <!-- 消息界面 end -->
+
+
+    <!-- 我界面 start -->
+    <dimen name="setting_item_height">45dp</dimen>
+    <dimen name="me_info_layout_height">127dp</dimen>
+    <dimen name="rl_icon_back_margin_left">18dp</dimen>
+    <dimen name="rl_icon_back_margin_top_bottom">19dp</dimen>
+    <dimen name="me_content_margin_left">15dp</dimen>
+    <dimen name="me_content_margin_top">20dp</dimen>
+    <dimen name="tv_user_name_drawable_padding">5dp</dimen>
+    <dimen name="iv_user_modify_info_margin_left">15dp</dimen>
+    <dimen name="tv_user_phone_margin_top_bottom">6dp</dimen>
+    <dimen name="me_set_item_padding_left_right">18dp</dimen>
+    <dimen name="me_set_item_drawable_padding">10dp</dimen>
+    <dimen name="me_set_linearview_margin_top">15dp</dimen>
+    <dimen name="me_set_switch_padding_left_right">18dp</dimen>
+    <dimen name="me_set_switch_drawable_padding">10dp</dimen>
+    <dimen name="feedback_suggest_edit_width">330dp</dimen>
+    <dimen name="feedback_suggest_edit_height">150dp</dimen>
+    <dimen name="password_update__edit_height">40dp</dimen>
+    <dimen name="feedback_suggest_edit_marginTop">10dp</dimen>
+    <dimen name="feedback_suggest_edit_marginmarginLeft">15dp</dimen>
+    <dimen name="feedback_suggest_edit_paddingLeft">10dp</dimen>
+    <dimen name="feedback_suggest_edit_paddingTop">7dp</dimen>
+    <dimen name="modified_user_edit_marginLeft">5dp</dimen>
+    <dimen name="modified_user_edit_marginRight">5dp</dimen>
+    <dimen name="modified_user_edit_marginTop">16dp</dimen>
+    <dimen name="modified_user_edit_marginBottom">16dp</dimen>
+    <dimen name="modified_et_nickname_height">30dp</dimen>
+    <dimen name="modified_et_nickname_paddingLeft">11dp</dimen>
+    <dimen name="modified_user_sex_marginTop">16dp</dimen>
+    <dimen name="modified_user_sex_marginleft">33dp</dimen>
+    <dimen name="me_about_info_marginTop">20dp</dimen>
+    <dimen name="me_about_info_show_height">233dp</dimen>
+    <dimen name="me_about_app_version_marginTop">7dp</dimen>
+    <dimen name="me_about_app_info_marginTop">18dp</dimen>
+    <dimen name="me_about_app_info_marginleft">16dp</dimen>
+    <dimen name="me_about_app_info_marginright">16dp</dimen>
+    <dimen name="me_about_app_info_text_size">13sp</dimen>
+    <dimen name="me_about_view_height">15dp</dimen>
+    <dimen name="me_about_check_new_version_paddingLeft">18dp</dimen>
+    <dimen name="me_about_rights_marginBottom">18dp</dimen>
+    <dimen name="modified_name_dialog_height">85dp</dimen>
+    <dimen name="modified_name_dialog_padding">10dp</dimen>
+    <dimen name="contact_info_text_size">19sp</dimen>
+    <dimen name="modified_userinfo_sex_paddingLeft">40dp</dimen>
+    <dimen name="modified_userinfo_sex_checkbox_marginLeft">19dp</dimen>
+    <!-- 我界面 end -->
+
+
+    <!-- 联系人名片 -->
+    <dimen name="contact_detail_layout_height">210dp</dimen>
+    <dimen name="contact_detail_title_margin_left_right">18dp</dimen>
+    <dimen name="contact_detail_title_margin_top_bottom">12dp</dimen>
+    <dimen name="contact_detail_nickname_margin_top">16dp</dimen>
+    <dimen name="contact_detail_number_margin_top">7dp</dimen>
+    <dimen name="contact_detail_layout_margin_bottom">13dp</dimen>
+    <dimen name="contact_detail_bottom_height">75dp</dimen>
+    <dimen name="contact_detail_bottom_margin_top">10dp</dimen>
+    <dimen name="contact_detail_bottom_margin_bottom">10dp</dimen>
+    <dimen name="contact_detail_bottom_view_margin_top">10dp</dimen>
+    <dimen name="contact_detail_bottom_view_height">56dp</dimen>
+    <dimen name="contact_detail_nubenumber_tag_margin_left">80dp</dimen>
+    <dimen name="contact_operate_nickname_layout_margin_left">18dp</dimen>
+    <dimen name="contact_operate_nickname_layout_height">50dp</dimen>
+    <dimen name="contact_operate_nickname_layout_margin_top">10dp</dimen>
+    <dimen name="contact_operate_nickname_line_margin_left_right">18dp</dimen>
+    <dimen name="contact_operate_nickname_line_margin_top">10dp</dimen>
+    <dimen name="contact_operate_phonenumber_margin_left">21dp</dimen>
+    <dimen name="contact_operate_phonenumber_margin_top">17dp</dimen>
+    <dimen name="contact_operate_video_width">246dp</dimen>
+    <dimen name="contact_operate_video_height">44dp</dimen>
+    <dimen name="contact_operate_video_margin_left_right">58dp</dimen>
+    <dimen name="contact_operate_video_margin_top">31dp</dimen>
+    <dimen name="contact_operate_voice_margin_top">11dp</dimen>
+    <dimen name="contact_operate_invite_register_none_tip_txt_margin_top">40dp</dimen>
+    <dimen name="contact_operate_invite_register_none_margin_top">16dp</dimen>
+    <dimen name="contact_dot_margin_left">49dp</dimen>
+    <dimen name="contact_dot_margin_bottom">45dp</dimen>
+    <dimen name="contact_dot_margin_top">3dp</dimen>
+
+    <!-- 设备详情界面 -->
+    <dimen name="device_detail_layout_height">254dp</dimen>
+    <dimen name="device_detail_userico_margintop">23dp</dimen>
+    <dimen name="device_detail_name_margin_top">8dp</dimen>
+    <dimen name="device_detail_number_margin_top">8dp</dimen>
+    <dimen name="device_operate_margin_top">23dp</dimen>
+    <dimen name="device_operate_layout_margin_top">28dp</dimen>
+    <dimen name="device_operate_pandding_left_right">42dp</dimen>
+    <dimen name="device_operate_margin_left_right">45dp</dimen>
+    <dimen name="device_detail_operate_txt_margin_top">4dp</dimen>
+    <dimen name="device_detail_img_width">120dp</dimen>
+    <dimen name="device_detail_X1_camera_opening_margin_top">213dp</dimen>
+    <dimen name="device_detail_hang_up_margin_top">230dp</dimen>
+    <dimen name="device_detail_hang_up_margin_bottom">46dp</dimen>
+    <dimen name="device_detail_open_camera_txt_hint_margin_top">12dp</dimen>
+
+    <!-- 自定义底部弹出框界面 -->
+    <dimen name="bottom_menu_layout_marginTop">2dp</dimen>
+    <dimen name="bottom_menu_layout_button1_height">50dp</dimen>
+    <dimen name="bottom_menu_layout_button1_paddingTop">0dp</dimen>
+    <dimen name="bottom_menu_layout_view_margin_left_right">23dp</dimen>
+    
+    
+    
+    <!-- 自定义通知栏 start -->
+    <dimen name="butel_notification_icon_width_height">48dp</dimen>
+    <dimen name="butel_notification_icon_margin">8dp</dimen>
+    <dimen name="butel_notification_icon_margin_left">8dp</dimen>
+    <dimen name="butel_notification_btn_margin_top">9dp</dimen>
+    <dimen name="butel_notification_title_margin_left">8dp</dimen>
+    <dimen name="butel_notification_btn_padding_left_right">7dp</dimen>
+    <dimen name="callback_margin_right">10dp</dimen>
+    <dimen name="callback_width">60dp</dimen>
+    <dimen name="callback_height">45dp</dimen>
+    <dimen name="butel_notification_title_size">20sp</dimen>
+    <dimen name="butel_notification_time_size">16sp</dimen>
+    <dimen name="butel_notification_name_size">17sp</dimen>
+    <dimen name="tv_nubenumber_size">15sp</dimen>
+    <dimen name="callback_size">20sp</dimen>
+    <dimen name="loading_guide_text_size">12sp</dimen>
+    <!-- 自定义通知栏 end -->
+    <!-- ipcallactivity call in -->
+    <dimen name="call_connect_hang_up_margintop">24dp</dimen>
+    <dimen name="call_in_button_marginbottom">40dp</dimen>
+    <dimen name="call_in_dis_nube_and_btn">50dp</dimen>
+    <dimen name="call_in_info_hint_margintop">116dp</dimen>
+    <!-- ipcallactivity call out -->
+    <dimen name="call_out_hang_up_marginbottom">40dp</dimen>
+    <!-- ipcallactivity call connect -->
+    <dimen name="call_connect_hang_up_marginbottom">30dp</dimen>
+    <dimen name="call_in_name_txt_size">24sp</dimen>
+    <dimen name="call_in_nube_txt_size">14sp</dimen>
+    <!-- 我：头像裁剪->缩放，最终的上传尺寸 -->
+    <dimen name="upload_icon_size">480px</dimen>
+    <!-- 附近的人 -->
+    <dimen name="nearby_name_dramalpadding">10dp</dimen>
+    <dimen name="tv_device_operate_height">25dp</dimen>
+    <dimen name="tv_device_cancel_bottom_height">30dp</dimen>
+    <dimen name="tv_device_alert_height">20dp</dimen>
+    <dimen name="tv_cancel_relation_width">315dp</dimen>
+    <dimen name="tv_cancel_relation_higth">60dp</dimen>
+      
+      <!-- 对话框统一修改 -->
+      <dimen name="commondialog_higth">59dp</dimen>
+      <dimen name="commondialog_operation_layout">52dp</dimen>
+      <dimen name="commondialog_padding">20dp</dimen>
+      <dimen name="commondialog_minihigth">80dp</dimen>
+      <dimen name="custom_commondialog_text_size">16sp</dimen>
+      
+</resources>

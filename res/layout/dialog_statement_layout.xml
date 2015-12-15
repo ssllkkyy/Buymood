@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/statement_scroll_height" >
+
+        <EditText
+            android:id="@+id/tv_message"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="13dp"
+            android:background="@null"
+            android:cursorVisible="false"
+            android:focusable="false"
+            android:gravity="center_vertical"
+            android:lineSpacingExtra="7dp"
+            android:paddingBottom="10dp"
+            android:text="@string/butel_statement"
+            android:textColor="@color/color_black"
+            android:textSize="16sp" />
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="9dp"
+        android:layout_marginTop="15dp"
+        android:background="@android:color/transparent"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <CheckBox
+            android:id="@+id/hide_butel_statement"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/dialog_checkbox_selected"
+            android:checked="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dp"
+            android:text="@string/buymood_agree_statement"
+            android:textColor="#313133"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</LinearLayout>

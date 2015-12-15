@@ -1,0 +1,183 @@
+<resources>
+
+<!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- 云电话设置界面 title -->
+    <dimen name="common_title_height">51dp</dimen>
+     <dimen name="common_lt_height">51dp</dimen>
+    <dimen name="common_word_size">16dp</dimen>
+    <dimen name="contact_name_edit_height">35dp</dimen>
+    <dimen name="account_input_margin_left">15dp</dimen>
+    <dimen name="account_input_margin_right">15dp</dimen>
+
+    <dimen name="big_button_padding_top_bottom">12dp</dimen>
+    <dimen name="big_button_padding_left_right_bottom">5dp</dimen>
+
+     <dimen name="common_item_height">41dp</dimen>
+    <dimen name="common_item_line">0.1dp</dimen>
+    <dimen name="me_item_line_height">1px</dimen>
+    <dimen name="title_word_size">21sp</dimen>
+    
+    <dimen name="image_thumbnail_size">68dip</dimen>
+    
+    <dimen name="line">1px</dimen>
+    <dimen name="word_size_12sp">12sp</dimen>
+    <dimen name="word_size_14sp">14sp</dimen>
+    <dimen name="word_size_15sp">15sp</dimen>
+    <dimen name="word_size_16sp">16sp</dimen>
+    <dimen name="word_size_18sp">18sp</dimen>
+    <dimen name="word_size_20sp">20sp</dimen>
+    <dimen name="word_size_22sp">22sp</dimen>
+    <dimen name="word_size_24sp">24sp</dimen>
+    <dimen name="word_size_26sp">26sp</dimen>
+    <dimen name="word_size_28sp">28sp</dimen>
+    <dimen name="word_size_38sp">38sp</dimen>
+    <dimen name="search_contact_item">55dip</dimen>
+    <dimen name="search_contact_view">58dip</dimen>
+    <dimen name="gallery_item_width">72dip</dimen>
+    <dimen name="gallery_spacing">8dip</dimen>
+    <dimen name="gallery_column_spacing">1dip</dimen>
+    <dimen name="contact_list_title_text_size">18sp</dimen>
+    <dimen name="contact_list_name_text_size">16sp</dimen>
+    <dimen name="contact_list_number_text_size">14sp</dimen>
+    <dimen name="newfriend_list_item_tip_text_size">14sp</dimen>
+    <dimen name="common_tips_text_size">16sp</dimen>
+    <dimen name="common_big_green_btn_text_size">20sp</dimen>
+    <dimen name="newfriend_op_btn_text_size">14sp</dimen>
+    
+    <dimen name="newfriend_op_btn_width">55dip</dimen>
+    <dimen name="newfriend_op_btn_hight">30dip</dimen>
+	<dimen name="newfriend_name_max_width">150dip</dimen>
+	
+<dimen name="newfriend_txtphone_max_width">200dip</dimen>
+	
+	<dimen name="side_bar_text_size">12sp</dimen>
+<!-- 	<dimen name="share_big_img_size">300dip</dimen> -->
+	
+	<dimen name="linkman_list_item_head_width">50dip</dimen>
+	
+	<dimen name="multi_image_chooser_spacing">5dip</dimen>
+    <dimen name="multi_image_chooser_padding">5dip</dimen>
+
+    <dimen name="multi_bucket_chooser_size">100dip</dimen>
+    <dimen name="multi_bucket_chooser_img_margin">10dip</dimen>
+    <dimen name="multi_bucket_chooser_grid_v_spacing">10dip</dimen>
+    <dimen name="multi_bucket_chooser_bg_margin">8dip</dimen>
+    
+    <dimen name="activity_lingqu_margin_Bottom">10dip</dimen>
+    
+    <!-- 适配登录界面的界面高度 -->
+    <dimen name="login_top">30dp</dimen>
+    <dimen name="dial_button_height">60dp</dimen>
+    <dimen name="dial_number_size">32sp</dimen>
+
+    <!-- 分享界面 -->
+    
+    <dimen name="pull_text_size">18sp</dimen>
+    <dimen name="small_pull_text_size">14sp</dimen>
+    
+    <dimen name="setting_icon">92dp</dimen>
+    <dimen name="setting_icon_half">46dp</dimen>
+	<dimen name="add_new_friend">16sp</dimen>
+    
+    
+         <!--这两个高度值必须同步维护 （联系人呢详情头像高度）-->
+    <dimen name="contact_img_width">92dip</dimen>
+    <dimen name="contact_img_half_width">46dip</dimen>
+    
+    <!-- 页面中单个大按钮 左右margin的值 -->
+    <dimen name="single_big_btn_margin">30dip</dimen>
+    
+    <dimen name="bottom_count_margin_right">6dp</dimen>
+    <dimen name="contact_detail_user_bg_height">200dp</dimen>
+    
+     <!-- 回声测试界面 -->
+     <dimen name="audio_detect_close_width_height">25dp</dimen>
+     <dimen name="audio_detect_close_margin_top">17dp</dimen>
+     <dimen name="audio_detect_close_margin_left">11dp</dimen>
+     
+     <dimen name="audio_detect_view_hint_width_height">35dp</dimen>
+     
+     <dimen name="audio_detect_wave_margin">20dp</dimen>
+     
+    <dimen name="audio_detect_hint_text_margin_top">80dp</dimen>
+    <dimen name="audio_detect_hint_text_size">20dp</dimen>
+    
+     <dimen name="btn_audio_detect_end_margin_left_right">20dp</dimen>
+     <dimen name="btn_audio_detect_end_margin_bottom">34dp</dimen>
+     <dimen name="btn_audio_detect_end_height">50dp</dimen>
+     
+     <!-- 拨号界面 -->
+     <dimen name="callrecord_item_height">54dp</dimen>
+     <dimen name="callrecord_show_item_pad_top_bottom">6dp</dimen>
+     <dimen name="callrecord_item_dir_width_height">50dp</dimen>
+     <dimen name="callrecord_item_calldir_width_height">22dp</dimen>
+     <dimen name="callrecord_item_headdir_width_height">48dp</dimen>
+     <dimen name="callrecord_item_more_pad_left">11dp</dimen>
+     <dimen name="callrecord_item_more_pad_right">16dp</dimen>
+     <dimen name="callrecord_item_action_width">70dp</dimen>
+     <dimen name="callrecord_item_action_height">52dp</dimen>
+     <dimen name="callrecord_item_action_magrin_top_bottom">5dp</dimen>
+     <dimen name="callrecord_item_action_magrin_text_top">4dp</dimen>
+     <dimen name="callrecord_item_name_word_size">16sp</dimen>
+     <dimen name="callrecord_item_number_word_size">14sp</dimen>
+     <dimen name="callrecord_item_action_word_size">14sp</dimen>
+     <dimen name="callrecord_item_time_word_size">14sp</dimen>
+     <!--ipcallactivity call in -->
+     <dimen name="call_in_info_hint_margintop">80dp</dimen>
+     <dimen name="call_in_info_hint_marginbottom">11dp</dimen>
+     <dimen name="call_in_icon_layout_width_height">168dp</dimen>
+     <dimen name="call_in_photo_width_height">120dp</dimen>
+     <dimen name="call_in_photo_width_height_half">60dp</dimen>
+     <dimen name="call_in_circle_unremove_width_heigth">133dp</dimen>
+     <dimen name="call_in_circle_canremove_width_heigth">150dp</dimen>
+     <dimen name="call_in_name_margintop">5dp</dimen>
+     <dimen name="call_in_name_marginbottom">3dp</dimen>
+     <dimen name="call_in_number_margintop">5dp</dimen>
+     <dimen name="call_in_button_marginbottom">30dp</dimen>
+     <dimen name="call_in_refuse_marginleft">20dp</dimen>
+     <dimen name="call_in_refuse_marginright">7dp</dimen>
+     <dimen name="call_in_answer_marginleft">7dp</dimen>
+     <dimen name="call_in_answer_marginright">20dp</dimen>
+     <!--ipcallactivity call out -->
+     <dimen name="call_out_info_hint_margintop">80dp</dimen>
+     <dimen name="call_out_info_hint_marginbottom">11dp</dimen>
+     <dimen name="call_out_icon_layout_width_height">168dp</dimen>
+     <dimen name="call_out_photo_width_height">120dp</dimen>
+     <dimen name="call_out_photo_width_height_half">60dp</dimen>
+     <dimen name="call_out_circle_unremove_width_heigth">133dp</dimen>
+     <dimen name="call_out_circle_canremove_width_heigth">150dp</dimen>
+     <dimen name="call_out_name_margintop">5dp</dimen>
+     <dimen name="call_out_name_marginbottom">3dp</dimen>
+     <dimen name="call_out_number_margintop">5dp</dimen>
+     <dimen name="call_out_hang_up_marginbottom">30dp</dimen>
+   	 <dimen name="call_out_hang_up_marginleftright">67dp</dimen>
+   	  <!--ipcallactivity call connect -->
+     <dimen name="call_connect_time_margintop">30dp</dimen>
+     <dimen name="call_connect_time_marginbottom">7dp</dimen>
+     <dimen name="call_connect_hint_marginbottom">20dp</dimen>
+     <dimen name="call_connect_icon_layout_width_height">133dp</dimen>
+     <dimen name="call_connect_photo_width_heigth">120dp</dimen>
+     <dimen name="call_connect_photo_width_heigth_half">60dp</dimen>
+     <dimen name="call_connect_circle_unremove_width_heigth">133dp</dimen>
+     <dimen name="call_connect_name_margintop">16dp</dimen>
+     <dimen name="call_connect_number_marginbottom">8dp</dimen>
+     <dimen name="call_connect_number_margintop">8dp</dimen>
+     <dimen name="call_connect_action_Layout_marginleftright">40dp</dimen>
+     <dimen name="call_connect_textview_handsfree_and_mute_margintop">3dp</dimen>
+     <dimen name="call_connect_hang_up_margintop">10dp</dimen>
+     <dimen name="call_connect_hang_up_marginbottom">30dp</dimen>
+     <dimen name="call_connect_hang_up_marginleftright">67dp</dimen>
+     <!-- home -->
+     
+    
+     <!-- 字体size值 -->
+    <dimen name="font_size_max">24sp</dimen>
+    <dimen name="font_size_large">22sp</dimen>
+    <dimen name="font_size_mid">20sp</dimen>
+    <dimen name="font_size_small">18sp</dimen>
+    <dimen name="font_size_16">16sp</dimen>
+    <dimen name="title_button_vertical_margin">4dp</dimen>
+     
+</resources>

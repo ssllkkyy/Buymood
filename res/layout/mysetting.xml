@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_personal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/android_layout_bg">
+    
+      <RelativeLayout
+        android:id="@+id/personal_top_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true">
+         <ImageView
+            android:id="@+id/personal_background_image"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/login_whole_bg" />
+          
+         <com.slk.buymood.utils.image.CirculaireNetworkImageView
+             android:layout_width="100dp"
+             android:layout_height="100dp"
+             android:id="@+id/login_circle_img"
+             android:layout_centerInParent="true"
+              app:border_width="2dp"
+              app:border_color="@color/color_del_red_pressed"
+              android:src="@drawable/tab_icon_01"
+              />
+        
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="@string/login_login_or_register"
+              android:textColor="@color/white_gray"
+              android:layout_centerInParent="true"></TextView>
+          
+      </RelativeLayout>
+    
+    
+</RelativeLayout>
